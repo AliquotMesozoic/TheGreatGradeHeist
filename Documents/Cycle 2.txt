@@ -1,0 +1,34 @@
+Cycle 2 Status Report
+The team objectives are as follows:
+1.Create functional nobbins
+2.Create functional hobbins
+3.Create death methods
+4.Create a bullet or laser weapon
+5.Create GUI
+6.Clean up code
+-------------------------------------------------------------------------------------------------------------------------------------
+Estimated times for each step:
+1. 30 Minutes
+2. 30 Minutes
+3. 5 Minutes
+4. 30 Minutes
+5. 1 Hour
+6. 30 minutes
+NET TIME: 3 Hours 5 minutes
+-------------------------------------------------------------------------------------------------------------------------------------
+Actual times for each step:
+1. 1 Hour 30 Minutes
+2. 45 Minutes
+3. 30 Minutes
+4. 15 Minutes
+5. 3 Hours 30 Minutes
+6. 30 Minutes
+NET TIME: 6 Hours 45 Minutes
+-------------------------------------------------------------------------------------------------------------------------------------
+Reasons for difference in estimated to actual time / complications with each step:
+1. The algorithm for finding the optimal path took longer than expected.
+2. Much simpler due to being able to burrow through dirt and other materials.
+3. Having different types of dieing (such as with a respawn) was unanticipated.
+4. Much easier than anticipated with other code already done.
+5. We could not think of any method to do this until 2 hours in, after that it still took longer than anticipated.
+6. N/A

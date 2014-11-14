@@ -1,0 +1,44 @@
+Cycle 1 Status Report
+The team objectives were as follows:
+1. Load the files from txt files.
+2. Create entities and a player that responds to key presses to move about the map.
+3. Track the amount of emeralds the hero collects.
+4. Enable the level to be changed using F for Forward and B for Backward.
+5. Make System.out statement that prints the entire map and allows us to visually see the player moving in the 2D array.
+6. Make a GUI.
+7. Set up all other very basic components to the game as described in the UML diagram.
+-------------------------------------------------------------------------------------------------------------------------
+Estimated times for each step:
+1. 30 minutes
+2. 30 minutes
+3. 5 minutes
+4. 20 minutes
+5. 5 minutes
+6. 30 minutes
+7. 30 minutes
+NET TIME: 2 Hours and 30 Minutes
+-------------------------------------------------------------------------------------------------------------------------
+Actual times for each step:
+1. 1 Hour
+2. 45 Minutes
+3. 2 Minutes
+4. 10 Minutes
+5. 3 Minutes
+6. Incomplete
+7. 45 Minutes
+NET TIME: 2 Hours and 45 Minutes
+-------------------------------------------------------------------------------------------------------------------------
+Reasons for difference in estimated to actual time / complications with each step:
+1. We attempted a much more complicated method of loading the levels instead of just standard text originally.
+	After, the reader began to give errors in the actual loading to the map, and we were required to de-bug to find out
+	what went wrong. We are too embarassed to share why we failed.
+2. The entities with their own special properties took up a majority of the extra 15 minutes of coding.
+	Associating the key presses to movement of the player was relatively simple after just setting up everything else.
+3. Creating a tracker for emeralds is much easier than expected.
+4. Once the key listener was already established for the player movement, all we had to do was make the code for loading
+	the next level.
+5. About what we were expecting.
+6. We tried making it with a JPanel, and nothing worked. Long story short we got tired and wanted to stop working
+	for the night, and because this is an optional part for the project, we stopped.
+7. Setting up the framework for the game and ensuring all the classes worked with each other took slightly longer than
+	anticipated, but no complications arose.

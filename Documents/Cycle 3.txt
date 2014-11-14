@@ -1,0 +1,30 @@
+Cycle 3 Status Report
+The team objectives are as follows:
+1. Create gold entity
+2. Make gold kill the hero or monster when dropping
+3. Convert gold to points for the player once it falls set distance and collides with dirt
+4. Create Respawns for monsters 
+5. Start additional features for game
+-------------------------------------------------------------------------------------------------------------------------------------
+Estimated times for each step:
+1. 30 Minutes
+2. 15 Minutes 
+3. 30 Minutes
+4. 45 Minutes
+5. 45 Minutes
+NET TIME: 2 Hours 45 Minutes
+-------------------------------------------------------------------------------------------------------------------------------------
+Actual times for each step:
+1. 1 Hour
+2. 15 Minutes
+3. 5 Minutes
+4. 45 Minutes
+5. 45 Minutes
+NET TIME: 2 Hours 40 Minutes
+-------------------------------------------------------------------------------------------------------------------------------------
+Reasons for difference in estimated to actual time / complications with each step:
+1. Most of the gold class was completed, but dubugging took the extra time.
+2. N/A
+3. Much easier than anticipated, also with much of the code already done, it was just some extra lines of code.
+4. N/A
+5. N/A
